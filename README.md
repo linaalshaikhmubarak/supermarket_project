@@ -11,6 +11,8 @@ This project aims to analyze supermarket sales data to uncover insights such as:
 - Popular payment methods.
 - Daily sales trends.
 
+📄 For additional insights, see the [Advanced Analysis Summary](advanced_analysis_summary.md).
+
 ---
 
 ## 🛠️ Tools Used
